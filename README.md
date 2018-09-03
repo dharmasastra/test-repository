@@ -2,13 +2,13 @@
 
 ## Installation
 
-'''
+```
 pip install Flask
 pip install FLask-JWT
 pip install Flask-RESTful
 pip install Flask-SQLAlchemy
 python app.py
-'''
+```
 
 ## Description
 
